@@ -6,7 +6,8 @@
 }
 
 .menu-link.activo {
-    color: #000;
+    color: #333333;
+    font-weight: bold;
 }
 
 .menu-link:hover {
